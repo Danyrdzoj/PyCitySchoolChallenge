@@ -30,7 +30,8 @@ The iPython Notebook, PyCitySchools was developed throughout the modules for thi
 The total schools and total students numbers are unaffected when the Thomas High School 9th grade reading and math scores are removed from the dataset. We continue to report overall averages by district using the same total number of students (39,170). The district's average math score falls from 79.0 to 78.9, but the average reading score remains unchanged (81.9). The overall percentage of students passing math, reading, and both is reduced by 1%. This makes sense given that Thomas High School has 461 ninth-grade students, or about 1.1 percent of the district's total 39,170 students.
 
 #### Fig. 1:  District Summary prior to removing Thomas High School 9th grade scores
-![Image](Challenge Im 1?raw=true)
+![Image](Election_Analysis_Challenge.png?raw=true)
+
 
 #### Fig. 2:  District Summary after removing Thomas High School 9th grade scores
 ![Image](Challenge Im 2?raw=true)
